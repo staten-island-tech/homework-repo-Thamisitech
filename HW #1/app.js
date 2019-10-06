@@ -36,6 +36,12 @@ console.log(o);
 
 let p = "";
 
-if(p){
-    
+if (p){
+
 }
+/////
+
+if ([]){
+
+}
+//// OBJECTS ARE ALWAYS TRUE WHEN CONVERTING TO BOOLEAN 
